@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Farhad 👋 :space_invader:
 
+![GitHub followers](https://img.shields.io/github/followers/fkhan77?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Farhad_Khan_42?label=Follow&style=social)
 <!--
 **fkhan77/fkhan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
