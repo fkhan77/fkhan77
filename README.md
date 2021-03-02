@@ -1,4 +1,5 @@
 ### Hi there, I'm Farhad 👋 :space_invader:
+Software engineer that :heart:'s JS (A lot of my work is private IP of other companies)
 
 [![GitHub followers](https://img.shields.io/github/followers/fkhan77?label=Follow&style=social)](https://github.com/fkhan77)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Farhad_Khan_42?label=Follow&style=social)](https://twitter.com/Farhad_Khan_42)
