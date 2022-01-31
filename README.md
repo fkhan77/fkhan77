@@ -1,5 +1,5 @@
 ### Hi there, I'm Farhad 👋 :space_invader:
-Software engineer that :heart: 's J
+Software engineer that :heart: 's JS
 
 CodeSandbox: https://codesandbox.io/u/fkhan77
 
