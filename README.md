@@ -4,7 +4,6 @@ Software engineer that :heart: 's JS
 CodeSandbox: https://codesandbox.io/u/fkhan77
 
 [![GitHub followers](https://img.shields.io/github/followers/fkhan77?label=Follow&style=social)](https://github.com/fkhan77)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Farhad_Khan_42?label=Follow&style=social)](https://twitter.com/Farhad_Khan_42)
 [![Codewars profile](https://www.codewars.com/users/fkhan77/badges/micro)](https://www.codewars.com/users/fkhan77)
 <!--
 **fkhan77/fkhan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
